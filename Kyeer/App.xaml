@@ -1,0 +1,9 @@
+﻿<Application x:Class="Kyeer.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Kyeer"
+             StartupUri="Kyeer_UI.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
